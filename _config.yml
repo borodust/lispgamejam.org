@@ -14,13 +14,13 @@ title:            Lisp Game Jams
 tagline:          '#lispgames community-driven events'
 description:      'Lisp-themed game jams by #lispgames community'
 url:              http://lispgamejam.org
-baseurl:          /
+baseurl:          /lispgamejam.org/
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate_path:    /blog/page:num/
+paginate_path:    /lispgamejam.org/blog/page:num/
 paginate:         5
 
 # Custom vars
