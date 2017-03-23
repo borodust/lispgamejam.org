@@ -6,8 +6,6 @@ tagline: ""
 
 <br>
 
-Here we should have various links, i guess.
-
-* Website
-* IRC
-* Twitter
+* #lispgames community website/wiki: <http://lispgames.org>
+* Twitter: <https://twitter.com/lispgames>
+* IRC: `#lispgames` at `chat.freenode.net`
